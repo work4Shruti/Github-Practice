@@ -1,2 +1,0 @@
-Hi, I am file 1
-Hi, I am file 2

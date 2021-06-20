@@ -1,0 +1,57 @@
+[33mcommit b9072fd570f3e8da84c84d08f2b8702b745da173[m[33m ([m[1;36mHEAD -> [m[1;32mfile2[m[33m)[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 21:35:33 2021 -0800
+
+    modified to file 2
+
+[33mcommit 906a79db26586bc7fb8369b423b01da4d0e35eff[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 15:55:16 2021 -0800
+
+    Revert "v2"
+    "File 2 "
+    This reverts commit bff554feddf94211910537e0f33a42c7d3efb107.
+
+[33mcommit bff554feddf94211910537e0f33a42c7d3efb107[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 15:55:03 2021 -0800
+
+    v2
+
+[33mcommit 6942d613d9521ed5ff27dd2eb06ce915d17e023b[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 15:54:09 2021 -0800
+
+    v1
+
+[33mcommit 20b78e07c956337fae95784f9d9f84ffab405254[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 15:52:03 2021 -0800
+
+    Revert "ver1"
+    
+    This reverts commit 512789c1b01fe2367dfe8082fd85ea57a61e3eaf.
+
+[33mcommit 249341a44a994f07793bd01a48c8a3b6ea32bbc1[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 15:50:42 2021 -0800
+
+    ver2
+
+[33mcommit 512789c1b01fe2367dfe8082fd85ea57a61e3eaf[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 15:48:31 2021 -0800
+
+    ver1
+
+[33mcommit 8a3be57a2fd97f0d036a4b8970fae4cb50c5f732[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 15:14:30 2021 -0800
+
+    First file err
+
+[33mcommit 12db646190b37b6c9176f4a022ec98a7288d93df[m
+Author: Shruti Aggarwal <work.shruti2697@gmail.com>
+Date:   Sat Jun 19 15:12:35 2021 -0800
+
+    First file
